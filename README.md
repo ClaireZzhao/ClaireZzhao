@@ -5,4 +5,4 @@
 
 [📉 우리 서비스의 주간 활성 유저 수는 왜 떨어지고 있을까요?](https://medium.com/@jiaying1410/%EC%9A%B0%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%A3%BC%EA%B0%84-%ED%99%9C%EC%84%B1-%EC%9C%A0%EC%A0%80-%EC%88%98%EB%8A%94-%EC%99%9C-%EB%96%A8%EC%96%B4%EC%A7%80%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-10d9f4a9804e)
 
-[매출을 늘리기 위한 데이터 분석 접근법 및 전략](https://medium.com/@jiaying1410/%EC%9A%B0%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%A3%BC%EA%B0%84-%ED%99%9C%EC%84%B1-%EC%9C%A0%EC%A0%80-%EC%88%98%EB%8A%94-%EC%99%9C-%EB%96%A8%EC%96%B4%EC%A7%80%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-10d9f4a9804e)
+[매출을 늘리기 위한 데이터 분석 접근법 및 전략](https://medium.com/@jiaying1410/%EB%A7%A4%EC%B6%9C%EC%9D%84-%EB%8A%98%EB%A6%AC%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A0%91%EA%B7%BC%EB%B2%95-%EB%B0%8F-%EC%A0%84%EB%9E%B5-cadeecfe9577)
